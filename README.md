@@ -4,6 +4,8 @@ A modular customer-support AI system that combines **LangGraph**, **LangChain**,
 
 The system uses Retrieval-Augmented Generation (RAG) to search structured travel information and routes each request to the assistant best suited to the task.
 
+https://github.com/hammadproject/multi-agent-rag-customer-support-main/blob/main/images/multi_agent_rag_system_architecture_aws.png?raw=true
+
 ## Overview
 
 The application is designed around a supervisor-and-specialists architecture.
@@ -23,6 +25,7 @@ The project is split into two main components:
 2. **Customer Support Chat** — runs the multi-agent conversation workflow and retrieves relevant information from the vector database.
 
 ---
+https://github.com/hammadproject/multi-agent-rag-customer-support-main/blob/main/images/travel_db_schema.png?raw=true
 
 ## Core Workflow
 
