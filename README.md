@@ -6,6 +6,11 @@ The system uses Retrieval-Augmented Generation (RAG) to search structured travel
 
 https://github.com/hammadproject/multi-agent-rag-customer-support-main/blob/main/images/multi_agent_rag_system_architecture_aws.png?raw=true
 
+
+
+<img width="1591" height="761" alt="image" src="https://github.com/user-attachments/assets/74d17dd6-d2cc-4b7d-b53f-db3c84a0e585" />
+
+
 ## Overview
 
 The application is designed around a supervisor-and-specialists architecture.
